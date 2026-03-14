@@ -7,7 +7,7 @@ wheels/
 *.egg-info
 *.sublime-project
 *.sublime-workspace
-*.env
+.env
 
 # Virtual environments
 .venv
